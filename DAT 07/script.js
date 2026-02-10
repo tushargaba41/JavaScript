@@ -14,7 +14,7 @@ let user={
         city:"palwal",
         State:"Haryana",
     },
-    mobileno:7206393909,
+    mobileno:1234567890,
     favcolor:["black","white","blue"],
     demo:function(){
         return "demo function"
